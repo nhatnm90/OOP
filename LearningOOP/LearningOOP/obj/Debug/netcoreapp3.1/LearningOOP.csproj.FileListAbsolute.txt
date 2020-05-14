@@ -1,0 +1,11 @@
+C:\kbbDev\OOP\LearningOOP\LearningOOP\bin\Debug\netcoreapp3.1\LearningOOP.exe
+C:\kbbDev\OOP\LearningOOP\LearningOOP\bin\Debug\netcoreapp3.1\LearningOOP.deps.json
+C:\kbbDev\OOP\LearningOOP\LearningOOP\bin\Debug\netcoreapp3.1\LearningOOP.runtimeconfig.json
+C:\kbbDev\OOP\LearningOOP\LearningOOP\bin\Debug\netcoreapp3.1\LearningOOP.runtimeconfig.dev.json
+C:\kbbDev\OOP\LearningOOP\LearningOOP\bin\Debug\netcoreapp3.1\LearningOOP.dll
+C:\kbbDev\OOP\LearningOOP\LearningOOP\bin\Debug\netcoreapp3.1\LearningOOP.pdb
+C:\kbbDev\OOP\LearningOOP\LearningOOP\obj\Debug\netcoreapp3.1\LearningOOP.csprojAssemblyReference.cache
+C:\kbbDev\OOP\LearningOOP\LearningOOP\obj\Debug\netcoreapp3.1\LearningOOP.AssemblyInfoInputs.cache
+C:\kbbDev\OOP\LearningOOP\LearningOOP\obj\Debug\netcoreapp3.1\LearningOOP.AssemblyInfo.cs
+C:\kbbDev\OOP\LearningOOP\LearningOOP\obj\Debug\netcoreapp3.1\LearningOOP.dll
+C:\kbbDev\OOP\LearningOOP\LearningOOP\obj\Debug\netcoreapp3.1\LearningOOP.pdb

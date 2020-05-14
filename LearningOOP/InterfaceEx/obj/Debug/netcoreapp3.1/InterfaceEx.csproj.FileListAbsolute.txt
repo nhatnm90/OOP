@@ -1,0 +1,11 @@
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.csprojAssemblyReference.cache
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.AssemblyInfoInputs.cache
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.AssemblyInfo.cs
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.exe
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.deps.json
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.runtimeconfig.json
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.runtimeconfig.dev.json
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.dll
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.pdb
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.dll
+C:\kbbDev\OOP\LearningOOP\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.pdb

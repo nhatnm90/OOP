@@ -1,0 +1,11 @@
+C:\kbbDev\OOP\LearningOOP\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.exe
+C:\kbbDev\OOP\LearningOOP\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.deps.json
+C:\kbbDev\OOP\LearningOOP\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.json
+C:\kbbDev\OOP\LearningOOP\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.dev.json
+C:\kbbDev\OOP\LearningOOP\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.dll
+C:\kbbDev\OOP\LearningOOP\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.pdb
+C:\kbbDev\OOP\LearningOOP\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfoInputs.cache
+C:\kbbDev\OOP\LearningOOP\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfo.cs
+C:\kbbDev\OOP\LearningOOP\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.dll
+C:\kbbDev\OOP\LearningOOP\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.pdb
+C:\kbbDev\OOP\LearningOOP\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.csprojAssemblyReference.cache
